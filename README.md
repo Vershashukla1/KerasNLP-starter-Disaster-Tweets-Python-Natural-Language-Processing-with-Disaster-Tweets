@@ -9,7 +9,7 @@ BERT models are usually pre-trained on a large corpus of text, then fine-tuned f
 
 DistilBERT model is a distilled form of the BERT model. The size of a BERT model was reduced by 40% via knowledge distillation during the pre-training phase while retaining 97% of its language understanding abilities and being 60% faster.
 In this File, you will-
-# Load the Disaster Tweets
+ Load the Disaster Tweets
 Explore the dataset
 Preprocess the data
 Load a DistilBERT model from Keras NLP
